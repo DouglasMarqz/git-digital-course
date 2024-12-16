@@ -1,6 +1,6 @@
 # CURSO DIGITAL: GIT/versionamento
 
-## GRAVANDO MUDANÇAS NO REPOSITORIO
+# gravando mudanças no repositorio
 
 # Salvando modificações no Git
 
